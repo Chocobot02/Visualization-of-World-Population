@@ -1,6 +1,7 @@
 # Visualization-of-World-Population
 
-This repository will show the visualizations of the collected information from the Worldometer website through web scraping process.
+This repository displays visualizations of information collected from the Worldometer website using a web scraping process, presented through Microsoft Power BI.
+
 
 > The web scraping code can be found in this GitHub repository.
 
